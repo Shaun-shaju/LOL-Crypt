@@ -73,6 +73,11 @@ streamlit run main.py
 
 ---
 
+## 🚀 Try LOL Crypt  
+Click below to experience the text encryption work live:  
+
+[![Run on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lol-crypt.streamlit.app/)
+
 ## 🧙‍♂️ Author
 
 Built with love, paranoia, and caffeine by [Shaun Shaju](https://github.com/Shaun-shaju) ☕💀
@@ -83,5 +88,5 @@ Built with love, paranoia, and caffeine by [Shaun Shaju](https://github.com/Shau
 
 ## 📌 Disclaimer
 
-This is a demo project meant for fun & educational purposes. Use at your own risk. And always double-check your emojis before sending. 🧐
+This is project is meant for fun & educational purposes. Use at your own risk. And always double-check your emojis before sending. 🧐
 
