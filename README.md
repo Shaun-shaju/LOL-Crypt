@@ -12,7 +12,7 @@ LOL-Crypt is a suspiciously secure, emoji-based encrypted chat system built usin
 - 🔄 Real-time chat with Firestore integration
 - 🤫 Secret chatroom IDs created per user pairing
 - 🧠 Decryption only on receiver side (client-based only)
-- 🧍‍♂️👤 Friend selector (from Firestore's friends subcollection)
+- 🧍‍♂️ Friend selector (from Firestore's friends subcollection)
 - 🐸 Totally normal. Absolutely no government surveillance here. Trust us.
 
 ---
@@ -80,7 +80,7 @@ Click below to experience the text encryption work live:
 
 ## 🧙‍♂️ Author
 
-Built with love, paranoia, and caffeine by [Shaun Shaju](https://github.com/Shaun-shaju) ☕💀
+Built with love, paranoia, and caffeine by [Shaun](https://github.com/Shaun-shaju) ☕💀
 
 > "If it looks sus, that's because it *is* sus."
 
